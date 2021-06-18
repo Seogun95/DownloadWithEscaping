@@ -11,7 +11,7 @@ import SwiftUI
 struct DownloadWithEscapingApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DownloadWithEscaping()
         }
     }
 }
